@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+public class  cal extends extcalci {
   public static void main(String[] args) {
 
     char operator;
